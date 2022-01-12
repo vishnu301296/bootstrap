@@ -1,0 +1,25 @@
+
+
+
+.sec-2{
+	border:2px solid black;
+	height:280px;
+	background-color:#EFF8FF;
+	border-radius:10px;
+	padding-top:20px;
+}
+
+
+.sec-3{
+	border:2px solid black;
+	height:60px;
+	text-align: center;padding-top:10px;
+}
+
+.sec-4{
+	font-size:12px;
+	padding:20px;
+	text-align:center;
+	word-spacing:6px;
+}
+
